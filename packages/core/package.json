@@ -1,5 +1,5 @@
 {
-  "name": "@exro/core",
+  "name": "@exro/common",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "prateek-tavisca <pmagarde@tavisca.com>",
@@ -17,5 +17,5 @@
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "04dd5d6684bfe49147ce26c2a269bc43dbccdd7b"
+  "gitHead": "5c805ce20e47961cdabb145a9f7d986cbe8d5735"
 }
