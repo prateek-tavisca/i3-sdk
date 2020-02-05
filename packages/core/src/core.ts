@@ -1,5 +1,7 @@
 class Core {
   get(id: number) {
-    return {}
+    return {
+      "core": {}
+    };
   }
 }
