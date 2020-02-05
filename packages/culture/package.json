@@ -1,5 +1,5 @@
 {
-  "name": "@i3-sdk/culture",
+  "name": "@exro/culture",
   "version": "0.0.4",
   "description": "> TODO: description",
   "author": "prateek-tavisca <pmagarde@tavisca.com>",
@@ -16,5 +16,6 @@
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "04dd5d6684bfe49147ce26c2a269bc43dbccdd7b"
 }
